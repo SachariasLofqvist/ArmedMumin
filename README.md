@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArmedMumin
+- 👋 Hi, I’m @SachariasLofqvist
 - 👀 I’m interested in web development mostly full stack and other computer related stuff
 - 🌱 I’m currently learning how to become a computer scientist
 - 💞️ I’m looking to collaborate on
